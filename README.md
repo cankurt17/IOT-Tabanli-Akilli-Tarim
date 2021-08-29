@@ -26,9 +26,9 @@
 ![prototoip2](https://user-images.githubusercontent.com/52429586/131252730-92c9890c-a197-40a4-b1ce-83357b6ae40f.jpg)
 
 # Mobil uygulama görselleri
- 
- ![uygulama1](https://user-images.githubusercontent.com/52429586/131252745-e8c188cb-b28e-41f0-bcd4-c6cb096fac84.png)
-![uygulama2](https://user-images.githubusercontent.com/52429586/131252748-b34e361e-e86d-4330-8f19-deb410f8e158.png)
+
+![uygulama1](https://user-images.githubusercontent.com/52429586/131253877-5edace30-28ef-4970-bf46-e33bcccce24e.png)
+![uygulama2](https://user-images.githubusercontent.com/52429586/131253881-81a306ec-abff-421d-81e6-36d9b98439e4.png)
 ![uygulama3](https://user-images.githubusercontent.com/52429586/131252750-7042f085-0055-44e7-8015-15956b30ff80.png)
 ![uygulama4](https://user-images.githubusercontent.com/52429586/131252752-15314be5-0d63-42e0-bb53-9997c0165891.png)
 ![uygulama5](https://user-images.githubusercontent.com/52429586/131252758-50903576-036e-4d9c-846d-18e6394cc370.png)
