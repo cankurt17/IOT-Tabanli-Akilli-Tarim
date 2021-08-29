@@ -1,0 +1,2 @@
+# IOT-Tabanli-Akilli-Tarim
+ 
